@@ -1,0 +1,28 @@
+*{
+    font-size: 30px;
+    font-weight:500;
+    background-color: rgb(215, 250, 220);
+}
+h3{
+    color: brown;
+    background-color: blue;
+}
+h4{
+    color: cadetblue;
+    background-color: aquamarine;
+
+
+}
+.myclass{
+color: bisque;
+}
+#myid{
+    color: aqua;
+}
+h5,p{
+    color: chocolate;
+    background-color: blueviolet;
+}
+#element{
+    background-color: chartreuse;
+}
